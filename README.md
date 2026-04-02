@@ -12,4 +12,4 @@ A web-based Digital Gram Panchayat system built using:
 
 ## Team
 - Faizan Khan
-- (Add other members here)
+- Eshan Thakur
